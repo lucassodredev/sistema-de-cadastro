@@ -1,0 +1,9 @@
+# Sitema de cadastro de jogos
+
+> Status do projeto: Em desenvolvimento.
+
+Para rodar este project em sua máquina, digite:
+
+```
+npm instal
+```
